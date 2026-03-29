@@ -2,14 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\app_server",
-    "\\app_server\\controllers",
+    "\\app_server\\models",
     "\\app_server\\routes",
     "\\app_server\\views",
     "\\app_server\\views\\layouts",
     "\\app_server\\views\\partials",
+    "\\data",
     "\\public",
     "\\public\\stylesheets"
   ],
-  "SelectedNode": "\\app_server\\views\\layouts\\layout.hbs",
+  "SelectedNode": "\\app_server\\views\\travel.hbs",
   "PreviewInSolutionExplorer": false
 }
