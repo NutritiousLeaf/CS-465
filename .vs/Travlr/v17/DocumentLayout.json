@@ -3,20 +3,176 @@
   "WorkspaceRootPath": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\app\\trip-listing\\trip-listing.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\app\\trip-listing\\trip-listing.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\app\\trip-card\\trip-card.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\app\\trip-card\\trip-card.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\app\\trip-card\\trip-card.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\app\\trip-card\\trip-card.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\app\\app.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\app\\app.config.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\main.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\app\\trip-listing\\trip-listing.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\app\\trip-listing\\trip-listing.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\data\\trips.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:data\\trips.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_server\\views\\index.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_server\\views\\index.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_server\\views\\error.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_server\\views\\error.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_server\\routes\\users.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_server\\routes\\users.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_server\\routes\\travel.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_server\\routes\\travel.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_server\\routes\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_server\\routes\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_server\\controllers\\travel.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_server\\controllers\\travel.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_server\\views\\travel.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_server\\views\\travel.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_server\\controllers\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_server\\controllers\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_api\\routes\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_api\\routes\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\app\\app.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\app\\app.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\app\\app.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\app\\app.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\app\\app.routes.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\app\\app.routes.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\app\\app.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\app\\app.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_api\\models\\travlr.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_api\\models\\travlr.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_api\\models\\seed.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_api\\models\\seed.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_api\\models\\db.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_api\\models\\db.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_api\\controllers\\trips.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_api\\controllers\\trips.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\app\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\app\\app.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\app\\trip-card\\trip-card.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\app\\trip-card\\trip-card.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\app\\trip-card\\trip-card.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\app\\trip-card\\trip-card.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\app\\services\\trip-data.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\app\\services\\trip-data.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\app\\services\\trip-data.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\app\\services\\trip-data.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\app\\models\\trip.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\app\\models\\trip.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\app\\edit-trip\\edit-trip.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\app\\edit-trip\\edit-trip.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\app\\edit-trip\\edit-trip.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\app\\edit-trip\\edit-trip.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\app\\edit-trip\\edit-trip.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\app\\edit-trip\\edit-trip.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\app\\edit-trip\\edit-trip.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\app\\edit-trip\\edit-trip.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\app\\data\\trips.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\app\\data\\trips.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\app\\add-trip\\add-trip.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\app\\add-trip\\add-trip.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\app\\add-trip\\add-trip.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\app\\add-trip\\add-trip.spec.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\app\\add-trip\\add-trip.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\app\\add-trip\\add-trip.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\app\\add-trip\\add-trip.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\src\\app\\add-trip\\add-trip.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_admin\\angular.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_server\\views\\travel.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_server\\views\\travel.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_server\\views\\layout.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -25,14 +181,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_server\\views\\partials\\header.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_server\\views\\partials\\header.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_api\\models\\travlr.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_api\\models\\travlr.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_server\\routes\\travel.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_server\\routes\\travel.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\public\\css\\style.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -47,36 +195,12 @@
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_server\\views\\partials\\footer.hbs||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\data\\trips.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:data\\trips.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_api\\models\\seed.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_api\\models\\seed.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_api\\models\\db.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_api\\models\\db.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\travel.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:travel.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_server\\routes\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_server\\routes\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_server\\controllers\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:app_server\\controllers\\main.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
     }
   ],
   "DocumentGroupContainers": [
@@ -86,76 +210,232 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "style.css",
-              "DocumentMoniker": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\public\\css\\style.css",
-              "RelativeDocumentMoniker": "public\\css\\style.css",
-              "ToolTip": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\public\\css\\style.css",
-              "RelativeToolTip": "public\\css\\style.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcCAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-04-06T00:32:25.124Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "style.css",
-              "DocumentMoniker": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\public\\stylesheets\\style.css",
-              "RelativeDocumentMoniker": "public\\stylesheets\\style.css",
-              "ToolTip": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\public\\stylesheets\\style.css",
-              "RelativeToolTip": "public\\stylesheets\\style.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2026-04-06T00:29:23.027Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "index.js",
-              "DocumentMoniker": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_api\\routes\\index.js",
-              "RelativeDocumentMoniker": "app_api\\routes\\index.js",
-              "ToolTip": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_api\\routes\\index.js",
-              "RelativeToolTip": "app_api\\routes\\index.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAYAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "app.js",
+              "DocumentMoniker": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app.js",
+              "RelativeDocumentMoniker": "app.js",
+              "ToolTip": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app.js",
+              "RelativeToolTip": "app.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF4AAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-04-05T23:54:12.541Z",
+              "WhenOpened": "2026-03-15T20:13:59.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "trip-listing.ts",
+              "DocumentMoniker": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\app\\trip-listing\\trip-listing.ts",
+              "RelativeDocumentMoniker": "app_admin\\src\\app\\trip-listing\\trip-listing.ts",
+              "ToolTip": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\app\\trip-listing\\trip-listing.ts",
+              "RelativeToolTip": "app_admin\\src\\app\\trip-listing\\trip-listing.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-12T23:07:04.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "trip-listing.html",
+              "DocumentMoniker": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\app\\trip-listing\\trip-listing.html",
+              "RelativeDocumentMoniker": "app_admin\\src\\app\\trip-listing\\trip-listing.html",
+              "ToolTip": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\app\\trip-listing\\trip-listing.html",
+              "RelativeToolTip": "app_admin\\src\\app\\trip-listing\\trip-listing.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-12T23:10:04.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "main.ts",
+              "DocumentMoniker": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\main.ts",
+              "RelativeDocumentMoniker": "app_admin\\src\\main.ts",
+              "ToolTip": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\main.ts",
+              "RelativeToolTip": "app_admin\\src\\main.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-19T21:00:10.373Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "trips.js",
-              "DocumentMoniker": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_api\\controllers\\trips.js",
-              "RelativeDocumentMoniker": "app_api\\controllers\\trips.js",
-              "ToolTip": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_api\\controllers\\trips.js",
-              "RelativeToolTip": "app_api\\controllers\\trips.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAACAAAAAAAAAA==",
+              "Title": "app.config.ts",
+              "DocumentMoniker": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\app\\app.config.ts",
+              "RelativeDocumentMoniker": "app_admin\\src\\app\\app.config.ts",
+              "ToolTip": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\app\\app.config.ts",
+              "RelativeToolTip": "app_admin\\src\\app\\app.config.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-12T22:24:49.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "trip-card.ts",
+              "DocumentMoniker": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\app\\trip-card\\trip-card.ts",
+              "RelativeDocumentMoniker": "app_admin\\src\\app\\trip-card\\trip-card.ts",
+              "ToolTip": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\app\\trip-card\\trip-card.ts",
+              "RelativeToolTip": "app_admin\\src\\app\\trip-card\\trip-card.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-13T00:08:28.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "trip-card.html",
+              "DocumentMoniker": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\app\\trip-card\\trip-card.html",
+              "RelativeDocumentMoniker": "app_admin\\src\\app\\trip-card\\trip-card.html",
+              "ToolTip": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\app\\trip-card\\trip-card.html",
+              "RelativeToolTip": "app_admin\\src\\app\\trip-card\\trip-card.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-13T00:01:54.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\css\\style.css",
+              "RelativeDocumentMoniker": "css\\style.css",
+              "ToolTip": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\css\\style.css",
+              "RelativeToolTip": "css\\style.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-19T21:00:27.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "index.hbs",
+              "DocumentMoniker": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_server\\views\\index.hbs",
+              "RelativeDocumentMoniker": "app_server\\views\\index.hbs",
+              "ToolTip": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_server\\views\\index.hbs",
+              "RelativeToolTip": "app_server\\views\\index.hbs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-19T21:00:25.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "error.hbs",
+              "DocumentMoniker": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_server\\views\\error.hbs",
+              "RelativeDocumentMoniker": "app_server\\views\\error.hbs",
+              "ToolTip": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_server\\views\\error.hbs",
+              "RelativeToolTip": "app_server\\views\\error.hbs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-19T21:00:24.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "users.js",
+              "DocumentMoniker": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_server\\routes\\users.js",
+              "RelativeDocumentMoniker": "app_server\\routes\\users.js",
+              "ToolTip": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_server\\routes\\users.js",
+              "RelativeToolTip": "app_server\\routes\\users.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-04-05T23:48:10.825Z",
+              "WhenOpened": "2026-04-19T20:59:50.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\index.html",
+              "RelativeDocumentMoniker": "app_admin\\src\\index.html",
+              "ToolTip": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\index.html",
+              "RelativeToolTip": "app_admin\\src\\index.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-19T21:00:09.186Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "seed.js",
-              "DocumentMoniker": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_api\\models\\seed.js",
-              "RelativeDocumentMoniker": "app_api\\models\\seed.js",
-              "ToolTip": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_api\\models\\seed.js",
-              "RelativeToolTip": "app_api\\models\\seed.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAADAAAAAAAAAA==",
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_server\\routes\\index.js",
+              "RelativeDocumentMoniker": "app_server\\routes\\index.js",
+              "ToolTip": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_server\\routes\\index.js",
+              "RelativeToolTip": "app_server\\routes\\index.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-03-29T23:20:54.613Z",
+              "WhenOpened": "2026-04-19T20:59:47.442Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 21,
+              "Title": "app.html",
+              "DocumentMoniker": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\app\\app.html",
+              "RelativeDocumentMoniker": "app_admin\\src\\app\\app.html",
+              "ToolTip": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\app\\app.html",
+              "RelativeToolTip": "app_admin\\src\\app\\app.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAUwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-12T22:24:51.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "app.routes.ts",
+              "DocumentMoniker": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\app\\app.routes.ts",
+              "RelativeDocumentMoniker": "app_admin\\src\\app\\app.routes.ts",
+              "ToolTip": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\app\\app.routes.ts",
+              "RelativeToolTip": "app_admin\\src\\app\\app.routes.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-12T22:24:54.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "app.spec.ts",
+              "DocumentMoniker": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\app\\app.spec.ts",
+              "RelativeDocumentMoniker": "app_admin\\src\\app\\app.spec.ts",
+              "ToolTip": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\app\\app.spec.ts",
+              "RelativeToolTip": "app_admin\\src\\app\\app.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-12T22:24:56.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "app.ts",
+              "DocumentMoniker": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\app\\app.ts",
+              "RelativeDocumentMoniker": "app_admin\\src\\app\\app.ts",
+              "ToolTip": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\app\\app.ts",
+              "RelativeToolTip": "app_admin\\src\\app\\app.ts",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-12T22:29:43.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
               "Title": "db.js",
               "DocumentMoniker": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_api\\models\\db.js",
               "RelativeDocumentMoniker": "app_api\\models\\db.js",
@@ -168,7 +448,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 23,
+              "Title": "seed.js",
+              "DocumentMoniker": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_api\\models\\seed.js",
+              "RelativeDocumentMoniker": "app_api\\models\\seed.js",
+              "ToolTip": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_api\\models\\seed.js",
+              "RelativeToolTip": "app_api\\models\\seed.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-29T23:20:54.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
               "Title": "travlr.js",
               "DocumentMoniker": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_api\\models\\travlr.js",
               "RelativeDocumentMoniker": "app_api\\models\\travlr.js",
@@ -181,7 +474,72 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 16,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_api\\routes\\index.js",
+              "RelativeDocumentMoniker": "app_api\\routes\\index.js",
+              "ToolTip": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_api\\routes\\index.js",
+              "RelativeToolTip": "app_api\\routes\\index.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-04-05T23:54:12.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "trips.json",
+              "DocumentMoniker": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\data\\trips.json",
+              "RelativeDocumentMoniker": "data\\trips.json",
+              "ToolTip": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\data\\trips.json",
+              "RelativeToolTip": "data\\trips.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-23T00:06:55.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "trips.js",
+              "DocumentMoniker": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_api\\controllers\\trips.js",
+              "RelativeDocumentMoniker": "app_api\\controllers\\trips.js",
+              "ToolTip": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_api\\controllers\\trips.js",
+              "RelativeToolTip": "app_api\\controllers\\trips.js",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAqwHAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-04-05T23:48:10.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "app.css",
+              "DocumentMoniker": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\app\\app.css",
+              "RelativeDocumentMoniker": "app_admin\\src\\app\\app.css",
+              "ToolTip": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\app\\app.css",
+              "RelativeToolTip": "app_admin\\src\\app\\app.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-12T22:29:15.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "main.js",
+              "DocumentMoniker": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_server\\controllers\\main.js",
+              "RelativeDocumentMoniker": "app_server\\controllers\\main.js",
+              "ToolTip": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_server\\controllers\\main.js",
+              "RelativeToolTip": "app_server\\controllers\\main.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-03-15T19:55:24.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "travel.js",
               "DocumentMoniker": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_server\\controllers\\travel.js",
               "RelativeDocumentMoniker": "app_server\\controllers\\travel.js",
@@ -194,85 +552,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "travel.html",
-              "DocumentMoniker": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\travel.html",
-              "RelativeDocumentMoniker": "travel.html",
-              "ToolTip": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\travel.html",
-              "RelativeToolTip": "travel.html",
-              "ViewState": "AgIAADoAAAAAAAAAAAAkwFIAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2026-03-23T00:09:18.058Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "trips.json",
-              "DocumentMoniker": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\data\\trips.json",
-              "RelativeDocumentMoniker": "data\\trips.json",
-              "ToolTip": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\data\\trips.json",
-              "RelativeToolTip": "data\\trips.json",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABoAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-23T00:06:55.73Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "layout.hbs",
-              "DocumentMoniker": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_server\\views\\layout.hbs",
-              "RelativeDocumentMoniker": "app_server\\views\\layout.hbs",
-              "ToolTip": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_server\\views\\layout.hbs",
-              "RelativeToolTip": "app_server\\views\\layout.hbs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-03-15T21:06:39.293Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "header.hbs",
-              "DocumentMoniker": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_server\\views\\partials\\header.hbs",
-              "RelativeDocumentMoniker": "app_server\\views\\partials\\header.hbs",
-              "ToolTip": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_server\\views\\partials\\header.hbs",
-              "RelativeToolTip": "app_server\\views\\partials\\header.hbs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-03-15T20:34:13.178Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "travel.hbs",
-              "DocumentMoniker": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_server\\views\\travel.hbs",
-              "RelativeDocumentMoniker": "app_server\\views\\travel.hbs",
-              "ToolTip": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_server\\views\\travel.hbs",
-              "RelativeToolTip": "app_server\\views\\travel.hbs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-03-15T20:33:14.835Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "app.js",
-              "DocumentMoniker": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app.js",
-              "RelativeDocumentMoniker": "app.js",
-              "ToolTip": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app.js",
-              "RelativeToolTip": "app.js",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAUwDYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-03-15T20:13:59.16Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "travel.js",
               "DocumentMoniker": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_server\\routes\\travel.js",
               "RelativeDocumentMoniker": "app_server\\routes\\travel.js",
@@ -285,7 +565,272 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 27,
+              "Title": "trip-card.spec.ts",
+              "DocumentMoniker": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\app\\trip-card\\trip-card.spec.ts",
+              "RelativeDocumentMoniker": "app_admin\\src\\app\\trip-card\\trip-card.spec.ts",
+              "ToolTip": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\app\\trip-card\\trip-card.spec.ts",
+              "RelativeToolTip": "app_admin\\src\\app\\trip-card\\trip-card.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-13T01:31:17.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "trip-card.css",
+              "DocumentMoniker": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\app\\trip-card\\trip-card.css",
+              "RelativeDocumentMoniker": "app_admin\\src\\app\\trip-card\\trip-card.css",
+              "ToolTip": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\app\\trip-card\\trip-card.css",
+              "RelativeToolTip": "app_admin\\src\\app\\trip-card\\trip-card.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-19T20:59:20.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "trip-data.spec.ts",
+              "DocumentMoniker": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\app\\services\\trip-data.spec.ts",
+              "RelativeDocumentMoniker": "app_admin\\src\\app\\services\\trip-data.spec.ts",
+              "ToolTip": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\app\\services\\trip-data.spec.ts",
+              "RelativeToolTip": "app_admin\\src\\app\\services\\trip-data.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-13T00:18:56.688Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "trip.ts",
+              "DocumentMoniker": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\app\\models\\trip.ts",
+              "RelativeDocumentMoniker": "app_admin\\src\\app\\models\\trip.ts",
+              "ToolTip": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\app\\models\\trip.ts",
+              "RelativeToolTip": "app_admin\\src\\app\\models\\trip.ts",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-13T00:20:43.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "edit-trip.ts",
+              "DocumentMoniker": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\app\\edit-trip\\edit-trip.ts",
+              "RelativeDocumentMoniker": "app_admin\\src\\app\\edit-trip\\edit-trip.ts",
+              "ToolTip": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\app\\edit-trip\\edit-trip.ts",
+              "RelativeToolTip": "app_admin\\src\\app\\edit-trip\\edit-trip.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-13T22:14:20.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "edit-trip.spec.ts",
+              "DocumentMoniker": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\app\\edit-trip\\edit-trip.spec.ts",
+              "RelativeDocumentMoniker": "app_admin\\src\\app\\edit-trip\\edit-trip.spec.ts",
+              "ToolTip": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\app\\edit-trip\\edit-trip.spec.ts",
+              "RelativeToolTip": "app_admin\\src\\app\\edit-trip\\edit-trip.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-19T20:59:16.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "edit-trip.css",
+              "DocumentMoniker": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\app\\edit-trip\\edit-trip.css",
+              "RelativeDocumentMoniker": "app_admin\\src\\app\\edit-trip\\edit-trip.css",
+              "ToolTip": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\app\\edit-trip\\edit-trip.css",
+              "RelativeToolTip": "app_admin\\src\\app\\edit-trip\\edit-trip.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-19T20:59:14.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "trips.ts",
+              "DocumentMoniker": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\app\\data\\trips.ts",
+              "RelativeDocumentMoniker": "app_admin\\src\\app\\data\\trips.ts",
+              "ToolTip": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\app\\data\\trips.ts",
+              "RelativeToolTip": "app_admin\\src\\app\\data\\trips.ts",
+              "ViewState": "AgIAABgAAAAAAAAAAAAqwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-12T23:04:57.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "add-trip.ts",
+              "DocumentMoniker": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\app\\add-trip\\add-trip.ts",
+              "RelativeDocumentMoniker": "app_admin\\src\\app\\add-trip\\add-trip.ts",
+              "ToolTip": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\app\\add-trip\\add-trip.ts",
+              "RelativeToolTip": "app_admin\\src\\app\\add-trip\\add-trip.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-13T02:23:13.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "add-trip.spec.ts",
+              "DocumentMoniker": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\app\\add-trip\\add-trip.spec.ts",
+              "RelativeDocumentMoniker": "app_admin\\src\\app\\add-trip\\add-trip.spec.ts",
+              "ToolTip": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\app\\add-trip\\add-trip.spec.ts",
+              "RelativeToolTip": "app_admin\\src\\app\\add-trip\\add-trip.spec.ts",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-19T20:59:10.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "add-trip.css",
+              "DocumentMoniker": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\app\\add-trip\\add-trip.css",
+              "RelativeDocumentMoniker": "app_admin\\src\\app\\add-trip\\add-trip.css",
+              "ToolTip": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\app\\add-trip\\add-trip.css",
+              "RelativeToolTip": "app_admin\\src\\app\\add-trip\\add-trip.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-19T20:59:08.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "trip-data.ts",
+              "DocumentMoniker": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\app\\services\\trip-data.ts",
+              "RelativeDocumentMoniker": "app_admin\\src\\app\\services\\trip-data.ts",
+              "ToolTip": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\app\\services\\trip-data.ts",
+              "RelativeToolTip": "app_admin\\src\\app\\services\\trip-data.ts",
+              "ViewState": "AgIAABYAAAAAAAAAAAAuwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-04-13T00:19:10.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "edit-trip.html",
+              "DocumentMoniker": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\app\\edit-trip\\edit-trip.html",
+              "RelativeDocumentMoniker": "app_admin\\src\\app\\edit-trip\\edit-trip.html",
+              "ToolTip": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\app\\edit-trip\\edit-trip.html",
+              "RelativeToolTip": "app_admin\\src\\app\\edit-trip\\edit-trip.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-13T03:50:41.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "add-trip.html",
+              "DocumentMoniker": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\app\\add-trip\\add-trip.html",
+              "RelativeDocumentMoniker": "app_admin\\src\\app\\add-trip\\add-trip.html",
+              "ToolTip": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\src\\app\\add-trip\\add-trip.html",
+              "RelativeToolTip": "app_admin\\src\\app\\add-trip\\add-trip.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-04-13T02:39:47.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "angular.json",
+              "DocumentMoniker": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\angular.json",
+              "RelativeDocumentMoniker": "app_admin\\angular.json",
+              "ToolTip": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_admin\\angular.json",
+              "RelativeToolTip": "app_admin\\angular.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-12T22:30:13.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\public\\css\\style.css",
+              "RelativeDocumentMoniker": "public\\css\\style.css",
+              "ToolTip": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\public\\css\\style.css",
+              "RelativeToolTip": "public\\css\\style.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-06T00:32:25.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "style.css",
+              "DocumentMoniker": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\public\\stylesheets\\style.css",
+              "RelativeDocumentMoniker": "public\\stylesheets\\style.css",
+              "ToolTip": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\public\\stylesheets\\style.css",
+              "RelativeToolTip": "public\\stylesheets\\style.css",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-04-06T00:29:23.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "travel.html",
+              "DocumentMoniker": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\travel.html",
+              "RelativeDocumentMoniker": "travel.html",
+              "ToolTip": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\travel.html",
+              "RelativeToolTip": "travel.html",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwFIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-03-23T00:09:18.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "layout.hbs",
+              "DocumentMoniker": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_server\\views\\layout.hbs",
+              "RelativeDocumentMoniker": "app_server\\views\\layout.hbs",
+              "ToolTip": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_server\\views\\layout.hbs",
+              "RelativeToolTip": "app_server\\views\\layout.hbs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-15T21:06:39.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "header.hbs",
+              "DocumentMoniker": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_server\\views\\partials\\header.hbs",
+              "RelativeDocumentMoniker": "app_server\\views\\partials\\header.hbs",
+              "ToolTip": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_server\\views\\partials\\header.hbs",
+              "RelativeToolTip": "app_server\\views\\partials\\header.hbs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-15T20:34:13.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "travel.hbs",
+              "DocumentMoniker": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_server\\views\\travel.hbs",
+              "RelativeDocumentMoniker": "app_server\\views\\travel.hbs",
+              "ToolTip": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_server\\views\\travel.hbs",
+              "RelativeToolTip": "app_server\\views\\travel.hbs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-03-15T20:33:14.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
               "Title": "footer.hbs",
               "DocumentMoniker": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_server\\views\\partials\\footer.hbs",
               "RelativeDocumentMoniker": "app_server\\views\\partials\\footer.hbs",
@@ -293,12 +838,11 @@
               "RelativeToolTip": "app_server\\views\\partials\\footer.hbs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-03-15T20:37:21.669Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-15T20:37:21.669Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 49,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",
@@ -306,34 +850,7 @@
               "RelativeToolTip": ".gitignore",
               "ViewState": "AgIAACsAAAAAAAAAAAAQwEcAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2026-03-09T01:33:05.241Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "index.js",
-              "DocumentMoniker": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_server\\routes\\index.js",
-              "RelativeDocumentMoniker": "app_server\\routes\\index.js",
-              "ToolTip": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_server\\routes\\index.js",
-              "RelativeToolTip": "app_server\\routes\\index.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-03-15T19:58:44.723Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "main.js",
-              "DocumentMoniker": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_server\\controllers\\main.js",
-              "RelativeDocumentMoniker": "app_server\\controllers\\main.js",
-              "ToolTip": "C:\\Users\\docka\\OneDrive\\Documents\\SNHU\\CS-465\\Travlr\\app_server\\controllers\\main.js",
-              "RelativeToolTip": "app_server\\controllers\\main.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-03-15T19:55:24.176Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-09T01:33:05.241Z"
             }
           ]
         }
